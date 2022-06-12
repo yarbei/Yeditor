@@ -1,6 +1,4 @@
-import {useState} from "react";
-
-function Toolbar(){
+function Toolbar(): JSX.Element {
 	return <></>
 }
 export default Toolbar
