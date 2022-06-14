@@ -1,4 +1,3 @@
-import React from "react";
 import ToolBar from './components/ToolBar'
 import Editable from './components/SlateEditable'
 interface Props{
